@@ -1,0 +1,8 @@
+﻿# Diretórios e arquivos de Python
+__pycache__/
+*.pyc
+
+# Arquivos do Docker Compose / Ambiente
+.env
+# Diretórios de build temporários do Docker
+*/.dockerignore
